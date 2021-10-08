@@ -5,7 +5,7 @@
 ### I'm Mustafa Alp, web and multi platform mobile developer
 
 - 💻   You can visit [my website](https://alpmusti.com) 
-- ✉️   Best way to reach me is via email [Mustafa ALP](mailto:mustafaalp43@gmail.com)
+- ✉️   Best way to reach me is via [email](mailto:mustafaalp43@gmail.com)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpmusti/) 
