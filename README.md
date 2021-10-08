@@ -1,6 +1,8 @@
+## About Me
+
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## I'm Mustafa Alp, web and multi platform mobile developer
+### I'm Mustafa Alp, web and multi platform mobile developer
 
 - 💻   You can visit [my website](https://alpmusti.com) 
 - ✉️   Best way to reach me is via email at [mustafaalp43@gmail.com](mustafaalp43@gmail.com)
@@ -12,7 +14,7 @@
 [![GitHub alpmusti](https://img.shields.io/github/followers/alpmusti?label=follow&style=social)](https://github.com/alpmusti)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=alpmusti)-->
 
-### Toolkit
+## Toolkit
 
 ### Mobile
 ![iOS Development](https://img.shields.io/badge/ios-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
@@ -54,7 +56,7 @@
 ![Github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
+## Stats
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpmusti)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alpmusti)](https://github.com/alpmusti/github-profile-trophy)
