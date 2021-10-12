@@ -57,6 +57,12 @@
 ![Github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+### SDLC
+
+![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white)
+
+
 ## Stats
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpmusti)
 
