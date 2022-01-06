@@ -42,6 +42,7 @@
 ![MSSQL](https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
