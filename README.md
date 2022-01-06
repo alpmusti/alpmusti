@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### I'm Mustafa Alp, web and multi platform mobile developer
+### I'm Mustafa Alp, mobile application developer.
 
 - 💻   You can visit [my website](https://alpmusti.com) 
 - ✉️   Best way to reach me is via [email](mailto:mustafaalp43@gmail.com)
