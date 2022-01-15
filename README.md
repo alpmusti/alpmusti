@@ -34,6 +34,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend
+![GO](https://img.shields.io/badge/core-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.JS-3C873A?style=for-the-badge&logo=express&logoColor=white)
