@@ -53,11 +53,13 @@
 ![Gulp](https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 
 ### VCS
 ![Git](https://img.shields.io/badge/git-F1502F.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=black)
+![Gitlab](https://img.shields.io/badge/gitlab-FCA121?&style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### SDLC
 
